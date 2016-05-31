@@ -1,7 +1,7 @@
 package tp2semstef; 
 
 import java.io.IOException; //Импорт необходимых библиотек
-import java.util.Scanner;   //
+import java.util.Scanner;   //test git
 
 public class Tp2semstef {
     
